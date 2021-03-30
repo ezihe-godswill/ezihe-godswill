@@ -6,9 +6,9 @@ I'm Ezihe Godswill from Nigeria who is focused on beautiful and functional desig
 
 Skills: REACT / JS / HTML / CSS
 
-🔭 I’m currently working on My personal projects and portfolio 
-🌱 I’m currently learning React  
-🤔 I’m looking for help with Learning how to contribute to open source 
+ -🔭 I’m currently working on My personal projects and portfolio 
+ -🌱 I’m currently learning React  
+ -🤔 I’m looking for help with Learning how to contribute to open source 
 
 
 
