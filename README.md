@@ -1,4 +1,4 @@
-### Hi there 👋, Ezihe Godswill
+# Hi there 👋, Ezihe Godswill
 #### Product designer & Frontend software engineer
 ![Product designer & Frontend software engineer](https://github.com/ezihe-godswill/ezihe-godswill/blob/main/Poster02.jpg)
 
