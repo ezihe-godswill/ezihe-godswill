@@ -1,13 +1,17 @@
-# Hi there 👋, I'm Ezihe Godswill
-#### Product designer & Frontend software engineer
-![Product designer & Frontend software engineer](https://github.com/ezihe-godswill/ezihe-godswill/blob/main/Poster02.jpg)
+### Hello there! 👋
 
-I'm Ezihe Godswill from Nigeria who is focused on beautiful and functional design and development, I really enjoy learning languages like React and Flutter, as well as shopify. I enjoy wireframing, ui, ux and design in general. You can check out my twitter at https://twitter.com/EziheGodswill or codepen at https://codepen.io/ezihe
+I'm Ezihe Godswill, a frontend software engineer based in Nigeria who enjoys working between design and engineering teams to build ideas into prototypes and prototypes into living projects on the web. I'm passionate about writing clean code, optimizing existing code products for better performance and contributing to open source projects.
 
-Skills: REACT / JS / HTML / CSS
+- 🌱 I’m currently learning React JS
+- 👯 I’m interested in contributing to open source projects while improving my UI design skills
+- 🤔 I’m looking for a front end developer / UI designer role
+- 💬 Ask me about anything, I'll be happy to help
+- 📫 How to reach me: DM [@ezihe](https://twitter.com/EziheGodswill)
+- ⚡ Fun fact: While I'm not coding, I'm exploring other interesting things in life and trying my best at school as a pharmacy student.
 
-- 🔭 I’m currently working on My personal projects and portfolio 
-- 🌱 I’m currently learning React  
-- 🤔 I’m looking for help with Learning how to contribute to open source 
+### Useful Links 💙
 
-
+- [Portfolio](https://ezihe.netlify.app)
+- [GitHub](https://github.com/ezihe-godswill)
+- [Codepen](https://codepen.io/ezihe)
+- [Twitter](https://twitter.com/EziheGodswill)
