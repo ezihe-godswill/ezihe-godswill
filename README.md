@@ -11,11 +11,11 @@ I don't like to brag but I've got a nice personality and chances are that you wi
 
 ## Let's connect?
 
-- [Twitter](https://twitter.com/gzkdev)
-- [Codepen](https://codepen.io/gzkdev)
-- [LinkedIn](https://linkedin.com/in/ezihe-godswill)
-- [Dribbble](https://dribbble.com/gzkdev)
-- [Portfolio (coming soon)](https://gzkdev.netlify.app)
+- [⚡ Twitter](https://twitter.com/gzkdev)
+- [✨ Codepen](https://codepen.io/gzkdev)
+- [💼 LinkedIn](https://linkedin.com/in/ezihe-godswill)
+<!-- - [Dribbble](https://dribbble.com/gzkio) -->
+- [🌐 Portfolio](https://gzk.netlify.app)
 
 <!-- - 🌱 I’m currently learning React JS
 - 👯 I’m interested in contributing to open source projects while improving my UI design skills
