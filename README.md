@@ -1,6 +1,6 @@
 Hello, I’m Godswill Ezihe
 
-I am a frontend engineer based in Nigeria. I'm interested in ui engineering, web3, art, computer graphics, math, and algorithms.
+A frontend engineer based in Nigeria. I'm interested in ui engineering, web3, art, computer graphics, math, and algorithms.
 
 Currently, I'm learning about computer systems and how to build blockchain applications with decent - possibly fantastic user experience.
 
@@ -12,5 +12,6 @@ My Stack:
 - Viem
 - Connectkit
 
-[@gzkdev on Twitter](https://twitter.com/gzkdev), [Personal Website](https://gzk.vercel.app), [LinkedIn](https://linkedin.com/in/ezihe-godswill)<br/>
+
+[Twitter](https://twitter.com/gzkdev), [Personal Website](https://gzk.vercel.app), [LinkedIn](https://linkedin.com/in/ezihe-godswill)
 <!-- [Codepen](https://codepen.io/gzkdev) <br/> -->
