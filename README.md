@@ -12,5 +12,5 @@ My Stack:
 - Viem
 - Connectkit
 
-[Website](https://gzk.vercel.app), [Twitter](https://twitter.com/gzkdev), [LinkedIn](https://linkedin.com/in/ezihe-godswill)<br/>
+[@gzkdev on Twitter](https://twitter.com/gzkdev), [Personal Website](https://gzk.vercel.app), [LinkedIn](https://linkedin.com/in/ezihe-godswill)<br/>
 <!-- [Codepen](https://codepen.io/gzkdev) <br/> -->
