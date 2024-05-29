@@ -13,5 +13,5 @@ My Stack:
 - Connectkit
 
 
-[Twitter](https://twitter.com/gzkdev), [Personal Website](https://blackbyte-web.vercel.app), [LinkedIn](https://linkedin.com/in/godswill-ezihe)
+[Twitter](https://x.com/gzkdev), [Personal Website](https://blackbyte-web.vercel.app), [LinkedIn](https://linkedin.com/in/godswill-ezihe)
 <!-- [Codepen](https://codepen.io/gzkdev) <br/> -->
