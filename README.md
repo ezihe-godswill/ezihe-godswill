@@ -11,6 +11,7 @@ My Stack:
 - Wagmi
 - Viem
 - Connectkit
+- Solidity
 
 
 [Twitter](https://x.com/gzkdev), [Personal Website](https://blackbyte-web.vercel.app), [LinkedIn](https://linkedin.com/in/godswill-ezihe)
